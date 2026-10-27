@@ -18,7 +18,7 @@ Current ad: **TumGard × H. pylori**. Read `storyboard.md` before doing anything
 ## How to work
 1. **Work in batches by beat** and stop after each for the user's approval:
    S01–S02 · S03–S09 · S10–S13 · S14–S17 · S18–S23. (S08 is `cast/L-D.png` as-is; S15 is the L-D → L-H → L-OK video sequence, so there's nothing to generate; S24 is built in the edit.)
-2. For each shot: write the prompt to `prompts/Sxx.txt` (replace `[STYLE ANCHOR]` with the text from storyboard §3), attach the listed refs, generate 4 options.
+2. For each shot: write the prompt to `prompts/Sxx.txt` (replace `[STYLE ANCHOR]` with the text from storyboard §3), attach the listed refs, generate 2 options (re-roll only if both fail a check).
 3. **"Edit of Sxx" means edit**: pass the approved `frames/final/Sxx.png` as the FIRST `--ref`, then the cast refs. Never regenerate a shot that's meant to continue another.
 4. **Look at every option yourself** (open the PNGs) and recommend one per shot, with one line on why. Reject and re-roll anything that fails a check below rather than presenting it.
 5. Show the user the options and your pick. On approval, copy picks to `frames/final/` and commit with a short message per batch.
