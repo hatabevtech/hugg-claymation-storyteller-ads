@@ -13,7 +13,7 @@ Every prompt ends with the same style line, already included below. If a clip mo
 | C04 | S04 | S04 | n/a | ~3 s | slow lateral dolly |
 | C05 | S05 | S05 | n/a | ~2 s | static, small bounce |
 | C06a | S06 | S06 | n/a | ~2 s | gentle tilt down, hold |
-| C07 | S07 | S07 | n/a | ~2 s | fast pan with the wave |
+| C07 | S07 | S07 | L-D | ~3 s | locked; the wave sweeps them out |
 | C08 | S08 | L-D | n/a | ~3 s | slow pull-back and rise |
 | C09 | S09 | S09 | n/a | ~2 s | static macro |
 | C10 | S10 | S10 | n/a | ~2.5 s | locked |
@@ -67,9 +67,9 @@ Close-up of one mustard-olive fusilli-shaped villain sitting on the rim of a red
 Macro clay stomach lining. Two white-and-pale-blue clay capsules drop slowly from above and land among the fusilli-shaped villains. One capsule cracks open and a clean white-blue liquid begins to spread out across the lining. The villains look up, startled, eyes widening. The camera tilts down gently with the falling capsules, then holds. Cool, clean clinical light. The villains' bodies stay rigid straight twisted spirals. Silent, no dialogue, no music. Stop-motion claymation: plasticine texture constant, slightly stepped stop-motion movement, characters keep their exact shape, no morphing, no melting, no new objects, no text.
 ```
 
-**C07 · S07** · start S07
+**C07 · S07** · start S07, end `cast/L-D.png` (the end frame forces the villains to be gone)
 ```
-Macro clay stomach lining. A white-blue wave of water sweeps across the frame from left to right. The camera pans quickly with the wave. The fusilli-shaped villains panic, eyes wide, mouths open, tumbling over and over in the splashing water and being washed out of frame. Cool, clean clinical light. The villains' bodies stay rigid straight twisted spirals even while tumbling, never bending. Silent, no dialogue, no music. Stop-motion claymation: plasticine texture constant, slightly stepped stop-motion movement, characters keep their exact shape, no morphing, no melting, no new objects, no text.
+Macro clay stomach lining. A powerful white-blue wave crashes across the frame from left to right. The fusilli-shaped villains are in total panic: their brows shoot up high in terror, their eyes go huge and round, their mouths stretch wide open in a scream, their tail tufts flailing. The wave knocks them off their feet and they tumble helplessly, over and over, swept away in the splashing water and carried completely out of the right side of the frame, one after another, until none are left. The water drains away, leaving the empty, quiet cratered lining with no creatures at all. Camera locked; only the wave and the villains move. Cool, clean clinical light. The villains' bodies stay rigid straight twisted spirals even while tumbling, never bending. Silent, no dialogue, no music. Stop-motion claymation: plasticine texture constant, slightly stepped stop-motion movement, characters keep their exact shape, no morphing, no melting, no new objects, no text.
 ```
 
 ## Beat 4 · The turn: the damage stays
