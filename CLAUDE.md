@@ -6,9 +6,10 @@ Current ad: **TumGard × H. pylori**. Read `storyboard.md` before doing anything
 
 ## Files
 - `storyboard.md`: the shot list. Section 2 is the reference key, section 3 the style anchor and colour stages, section 4 the shots (S01–S24), section 6 the checks.
-- `cast/`: the locked cast sheet, named by reference code (`R-B.png`, `R-F.png`, `R-A.png`, `HP.png`, `HP-S.png`, `L-D.png`, `L-H.png`, `L-OK.png`, `P.png`, `J.png`). **Never regenerate these.** They are approved.
+- `cast/`: the locked cast sheet, named by reference code (`R-B.png`, `R-F.png`, `R-A.png`, `HP.png`, `HP-S.png`, `L-D.png`, `L-H.png`, `L-OK.png`, `P.png`, `J.png`, `NUT.png`). **Never regenerate these.** They are approved.
 - `gen.py`: calls the Gemini image API. `python3 gen.py models` lists image models; `python3 gen.py run ...` generates options. See its docstring.
 - `prompts/`: save each shot's final prompt as `prompts/Sxx.txt` before generating, so every frame is reproducible.
+- `motion/MOTION.md`: Google Flow motion prompts (Frames to Video), one per clip.
 - `frames/`: options as `Sxx_a.png` … `Sxx_d.png`; the approved pick copied to `frames/final/Sxx.png`.
 
 ## The API
