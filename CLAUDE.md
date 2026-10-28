@@ -24,6 +24,12 @@ Current ad: **TumGard × H. pylori**. Read `storyboard.md` before doing anything
 4. **Look at every option yourself** (open the PNGs) and recommend one per shot, with one line on why. Reject and re-roll anything that fails a check below rather than presenting it.
 5. Show the user the options and your pick. On approval, copy picks to `frames/final/` and commit with a short message per batch.
 
+## Creative direction (from the user, after cut v1)
+The mechanism visuals must be **visceral and emotional, not just clear**: the viewer should *feel* it. Stylised, never realistic or gory.
+- **Damage:** make the hurt felt: angry, inflamed, throbbing red; the lining flinching; acid that stings.
+- **The product applied:** the hero moment. Show how the lehyam looks and feels as it touches the lining: thick, velvety, glossy black settling like a soothing balm, the amber glow spreading warmth, the red calming to pink, the lining visibly relaxing. Linger on texture and relief.
+- Prioritise more shots and closer angles of application (spoon, the lehyam's texture, it meeting the lining) when generating the next round.
+
 ## Checks (reject on any)
 - **Rohan:** same face, deep brown skin tone, full black moustache, matching the cast sheets. Before = grey-blue shirt; after = off-white shirt, warm light. Skin tone drifts lighter in edits; watch it.
 - **H. pylori:** straight twisted fusilli body in every frame, never coiled, never worm- or slug-like. Mustard-olive, angry V brows, jagged teeth.
