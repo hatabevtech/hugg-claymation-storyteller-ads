@@ -9,18 +9,21 @@ The user hands you someone else's ad. You keep its skeleton, the order of beats 
 
 This logic comes from a real rewrite: YOGABODY's "Fix Your Feet" presenter ad, rebuilt by the user into the TumGard × H. pylori intro. `references/example-tumgard.md` has the reference, the literal first draft, the user's final, and why each change was made. Read it before writing; it is the best picture of the target.
 
-## Step 1: Ask for what you need (one message, only what's missing)
+## Step 1: Load the hugg knowledge, then ask only what's left
 
-Check the repo and conversation first (`storyboard.md`, earlier scripts, claim notes). Then ask the user, in one short message, only for what you can't find:
+Most of what you need is already bundled, taken from the hugg Brief Builder:
 
-1. **Product** and what it actually does (its approved claim, in their words).
-2. **Condition label** the customer already knows (a diagnosis, a test result, a common name). This becomes the hook.
-3. **Symptoms in the customer's own words**, if they have them (reviews, calls, comments). If not, you'll draft and they'll correct.
-4. **What people have already tried or been told** (home remedies, family advice, diet rules).
-5. **The villain/cause** and any **stat** with its source.
-6. **Language and length**: default Hinglish, intro of about 25–30 s.
+- `references/products.md`: each product's reframe, mechanism, picturable process, dose, timeline ("users report"), felt outcomes, how it sits with medicine, credibility, offer, and **"noAds"** (lines that must never appear). It also lists each angle (e.g. TG3 H. pylori) with **what customers tried before**.
+- `references/phrasebank.md`: verbatim customer phrases by angle and "door" (symptom cluster). Prefer **fat** doors (20+ posts). `TGS`-style lists are "tried everything" phrases.
+- `references/rules.md`: claim discipline, the universal hook rules (doc 01), hook craft, hook engines, and the mechanism beat.
 
-Don't block on all of it. Draft with clear placeholders like `[X]%` when something is missing.
+Read the product's section of `products.md` and the angle's doors in `phrasebank.md` before writing. Then ask the user, in one short message, only for what you still can't settle:
+
+1. **Product and angle** (e.g. TumGard, TG3 H. pylori), if the reference and conversation don't make it obvious. Suggest the angle whose problem plays the same role and weight as the reference's.
+2. **Any stat** they want, with its source. Prevalence and behaviour stats only, never efficacy.
+3. **Language and length**, if not the default (Hinglish, intro of about 25–30 s).
+
+Don't block on these. Draft with placeholders like `[X]%` where needed.
 
 ## Step 2: Map the reference
 
@@ -37,7 +40,7 @@ Open with the condition label the viewer already owns, then the contradiction th
 
 **Symptom list: felt experience, not diagnoses.**
 - Exactly **5 lines**, each **3–5 words**, about 1.3 s each. Short and rapid; no scene-setting (no meetings, weddings, pillows). Every viewer should match every line.
-- Use what people actually say ("jalan", not a writerly "aag"), similes ("jaise patthar"), and sensory or embarrassing detail ("badbudaar"), so it **agitates**, not just describes.
+- Build the lines from `phrasebank.md` for the chosen angle: customers' real words, compressed. If the angle has no doors, use the product's symptom doors. Use what people actually say ("jalan", not a writerly "aag"), similes ("jaise patthar"), and sensory or embarrassing detail ("badbudaar"), so it **agitates**, not just describes.
 - Escalate: body → mouth → chest → **mind**. End on the emotional cost ("Har khane se pehle darr").
 - Put the vivid word first ("Khatta paani muh mein").
 - Drop anything the hook already says.
@@ -45,7 +48,8 @@ Open with the condition label the viewer already owns, then the contradiction th
 **What you've tried: three voices, all the same kind of fix.**
 - Exactly **three**: unasked-for advice from people in the viewer's life (ghar wale, dost, internet). Format: "X ne kaha: [fix]."
 - All three should be the **same category of fix** (for TumGard, all food/plate fixes), so the turn can rule out that whole category in one line.
-- No medicines, no doctors, no brands. A medicine breaks the pattern and makes it a knock on a product.
+- Pick them from the angle's "tried before" list in `products.md`, keeping only the non-medicine ones (home remedies, diet rules, advice).
+- No medicines, no doctors, no brands. A medicine breaks the pattern and makes it a knock on a product. Never undermine prescribed medicine.
 
 **The turn: diagnose, don't dismiss.**
 - One line that moves the problem from what the viewer has been doing to where it really is: "Yeh sab karne ke baad bhi - issue nahi gaya matlab problem plate me nahin, pet me hai."
@@ -57,10 +61,10 @@ Open with the condition label the viewer already owns, then the contradiction th
 - The stat should **explain**, not just count: prevalence plus what the villain does ("80% Indians mein ek bacteria hai jo pet ki lining ko sensitive karta hai"). That makes it evidence for the turn.
 - A big number says "you're not alone" for you, so drop that line.
 - Use plain words for the villain ("ek bacteria") to widen the audience beyond the diagnosed.
-- Good news is **concrete and simple**: a timeframe and the body doing the work ("bacteria hatao, pet 30 din mein khud recover hone lagta hai").
+- Good news is **concrete and simple**, and it should point toward the product's job, not away from it. If the body "recovers by itself", there's no reason to buy. Any timeframe comes from the product's "users report" timeline in `products.md`.
 
 **Product line: the direct answer to the villain.**
-- One line, joined to the previous one ("Usi…"), in the maker's voice ("humne banaya hai [Product]"). The product arrives around 25–30 s, not 50.
+- One line, joined to the previous one ("Usi…"), in the maker's voice ("humne banaya hai [Product]"), and in support framing (e.g. "Usi lining ko support karne ke liye, humne banaya hai TumGard"). The product arrives around 25–30 s, not 50.
 - No named frameworks or extra reframes before it.
 
 ## Step 4: Check the chain
@@ -71,9 +75,17 @@ label → still suffering → tried X-type fixes → it's not X, it's Y → here
 
 If any line is a side argument, cut it. Check especially that the **hook and the product line agree**: if the hook says the villain is gone, the product shouldn't be about fighting it. Flag any mismatch to the user; don't silently fix it.
 
-## Step 5: Flag claims; don't change them yourself
+## Step 5: Run the claim rules; flag, don't override the user
 
-Mark lines that need a claims or regulatory pass. Usually that means stats, timeframes, and anything implying the product treats or fights a disease. Health and herbal products in India face ASCI and drug-advertising rules, and Meta's personal-attributes policy can flag "you have X" lines in health ads. Raise these as notes; the user decides. If the presenter is AI-generated, it is a host only: never a doctor, never a first-person "it worked for me".
+Check every line against `references/rules.md` and the product's **noAds** in `products.md`:
+
+- **Support/manage framing only:** "support karta hai", "pe kaam karta hai". Never cure, treat, fight, eradicate, reverse, or "theek ho jayega".
+- **Outcomes** take the form "users report" / "log feel karte hain", with the product's real timeline. No efficacy % stats, no guarantees.
+- **Never put "aapki" / "your" next to a condition** (Meta personal-attributes policy).
+- **Respect the doctor's medicine.** Show the gap it leaves; never "stop it".
+- **The product line** must resolve the product's actual mechanism (e.g. TumGard: flavonoids help reduce lining inflammation) and hinge on it with "isi/usi…".
+
+When you draft, write claim-safe. When the user edits a line into something that breaks a rule, apply their edit (it's their script), then name the specific rule it breaks and give a claim-safe alternative in one line. If the presenter is AI-generated, it is a host only: never a doctor, never a first-person "it worked for me".
 
 Never copy the reference's lines, brand, or framework names.
 

@@ -27,6 +27,7 @@
 | Product | Mechanism section and framework cut; "Usi bacteria se…humne banaya hai TumGard" | Product arrives as the direct answer at about 30 s instead of 50 s. |
 
 ## Open flags at the time
+Learn the rewrite *logic* from this example, not these last lines. Against `rules.md` and TumGard's noAds, three of them break claim rules, so a fresh draft should not copy them:
 - "80%" and "30 din mein khud recover" needed sources.
-- "Usi bacteria se ladne ke liye" moved TumGard from "supports the lining" to "fights the bacteria", which needed a claims decision.
+- "Usi bacteria se ladne ke liye" (a "fight" claim) moved TumGard from "supports the lining" to "fights the bacteria", which needed a claims decision.
 - The hook says the bacteria is "gaya" while the product line fights it, so the chain didn't fully close.
