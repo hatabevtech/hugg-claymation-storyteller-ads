@@ -19,13 +19,13 @@ Most of what you need is already bundled, taken from the hugg Brief Builder:
 - `references/phrasebank.md`: verbatim customer phrases by angle and "door" (symptom cluster). Prefer **fat** doors (20+ posts). `TGS`-style lists are "tried everything" phrases.
 - `references/rules.md`: claim discipline, the universal hook rules (doc 01), hook craft, hook engines, and the mechanism beat.
 
-Read the product's section of `products.md` and the angle's doors in `phrasebank.md` before writing. Then ask the user, in one short message, only for what you still can't settle:
+**Always ask which product first, before drafting anything**, even if the reference seems to point at one. Being aligned on the product up front saves a wasted draft. Ask in one short message:
 
-1. **Product and angle** (e.g. TumGard, TG3 H. pylori), if the reference and conversation don't make it obvious. Suggest the angle whose problem plays the same role and weight as the reference's.
-2. **Any stat** they want, with its source. Prevalence and behaviour stats only, never efficacy.
-3. **Language and length**, if not the default (Hinglish, intro of about 25–30 s).
+1. **Which product?** Give your suggested product and angle, with a one-line reason (the problem that plays the same role and weight as the reference's), so the user can just say yes. If they also name an angle, use it. Otherwise pick the angle yourself.
+2. **Any stat or social-proof number** they want used, with its source, if the reference has a stat or proof beat. Prevalence and behaviour stats only, never efficacy.
+3. **Language and length**, only if there's a reason to depart from Hinglish at the reference's own length.
 
-Don't block on these. Draft with placeholders like `[X]%` where needed.
+Wait for the product answer. After that, read the product's section of `products.md` and the angle's doors in `phrasebank.md`, then draft. Don't block on items 2–3: use placeholders like `[X]%` where needed.
 
 ## Step 2: Map the reference's own structure
 
