@@ -12,10 +12,22 @@ The shot grammar below comes from studying YOGABODY presenter ads (`references/s
 ## Inputs, and what to ask
 
 - **Character reference image(s): required.** They are the locked look. Never regenerate or "improve" the character. Every frame is built from these images.
+- **Wardrobe:** smart casual in a warm neutral (a plain shirt; no coat, no tie), unless the user says otherwise. If the reference image shows doctor clothing (white coat, stethoscope), keep the face, glasses and hair exactly and **replace the clothes**. The presenter is a host, not a doctor endorsing the product. Keep the same outfit for the whole ad.
+- **Confirm the character is AI-generated,** or that a real person has given explicit consent to AI footage of themselves in hugg ads. Ask if it isn't clear. No image prompts until it's settled.
 - **Script: required.** This is the final VO. Don't change a word. If a line looks wrong, raise it.
 - **The hugg set**: `references/hugg-set.md` describes it. Once the user approves a set plate, it lives at `presenter/set/SET.png`. If that file doesn't exist yet, make the set plate first (Step 2) and get it approved. It is then reused for **every** ad.
 
 Ask only for what's missing. Don't ask about stats or claims; this skill doesn't touch the words.
+
+## Manual mode (no API key yet)
+If the image API isn't available, run the same steps, but for each image step give the user:
+- the ready-to-paste prompt;
+- the images to attach, in order;
+- the aspect ratio;
+- how many options to make;
+- the file names to send back (e.g. `P05_a`, `P05_b`).
+
+Save the prompts to `prompts/` as usual. When the images come back, save them under `frames/`, run Step 4's checks on every one, and pick, or ask for specific re-rolls. Never make mock images yourself.
 
 ## Step 0: Check the image API
 Run `python3 gen.py models` from the repo root. If it fails (e.g. 401 "API key not valid"), stop and tell the user to update the Gemini key in the environment's settings (Network secrets) and start a new session. Never ask for the key in chat, and never make mock frames. The shot list and the prompts (Steps 1 and 4's text) can still be written meanwhile.
