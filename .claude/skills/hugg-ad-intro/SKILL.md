@@ -100,7 +100,8 @@ Never copy the reference's lines, brand, or framework names.
 ## Output
 
 1. **The intro as one paragraph** (the user edits in this form).
-2. A beat table that shows the structure was kept: reference beat (time) → hugg line → the job it does.
-3. **Flags**: claims to check, placeholders to fill, any break in the chain.
+2. **2–3 alternate hooks**, each with a one-line note on what it changes. They are variations on the reference's hook, not free ideas: keep its form (question or statement), its time and word budget, and the kind of tension it creates (e.g. a yes/no filter, a fear, a contradiction). Each one has to flow into the draft's second beat unchanged, so any of them can be swapped in. Vary the angle of attack (label, contradiction, felt symptom, fear), not the shape.
+3. A beat table that shows the structure was kept: reference beat (time) → hugg line → the job it does.
+4. **Flags**: claims to check, placeholders to fill, any break in the chain.
 
 When the user edits, apply their changes exactly as written. Fix only obvious grammar (say so), and give the full paragraph back each time.
