@@ -5,9 +5,11 @@ description: Turn another brand's reference ad (script, transcript, or frames) i
 
 # hugg ad intro from a reference script
 
-The user hands you someone else's ad. You keep its skeleton, the order of beats and the job each beat does, and rebuild every line for a hugg product and an Indian viewer. You stop at the line that introduces the product.
+The user hands you someone else's ad. **Their structure, our content, our writing style.** Keep the reference's beats exactly: which beats there are, their order, how many items each one has, and roughly how long each lasts. Then rewrite every line for a hugg product and an Indian viewer, the way the user writes. Stop at the line that introduces the product.
 
-This logic comes from a real rewrite: YOGABODY's "Fix Your Feet" presenter ad, rebuilt by the user into the TumGard × H. pylori intro. `references/example-tumgard.md` has the reference, the literal first draft, the user's final, and why each change was made. Read it before writing; it is the best picture of the target.
+Structure is the one thing you must not change. Don't add beats the reference doesn't have, don't drop beats it does have, and don't reorder them. A 16-second intro stays about 16 seconds. If you think a beat is missing (for example, the product arrives with no reason to believe), say so in the flags as an optional addition. Never build it into the draft.
+
+The writing style comes from a real rewrite: YOGABODY's "Fix Your Feet" ad, rebuilt by the user into the TumGard × H. pylori intro. `references/example-tumgard.md` has the reference, the literal first draft, the user's final, and why each change was made. Read it to learn **how the user writes a line**. Its beat order belongs to that reference only and is not a template.
 
 ## Step 1: Load the hugg knowledge, then ask only what's left
 
@@ -25,55 +27,53 @@ Read the product's section of `products.md` and the angle's doors in `phrasebank
 
 Don't block on these. Draft with placeholders like `[X]%` where needed.
 
-## Step 2: Map the reference
+## Step 2: Map the reference's own structure
 
-Break the reference into beats up to its product introduction, and name the job of each beat. Most presenter ads run:
+List the reference's beats from the first line up to the product introduction. For each beat, write down:
+- its time span and an approximate word budget (spoken Hinglish runs about 2.5–3 words a second);
+- its **job** (filter, recognition, cost, tried-it, turn, stat, promise, product…);
+- its **count**, if it's a list (5 conditions means 5 lines);
+- its **device**: question, list, invitation, three voices, counting, contrast, and so on.
 
-hook → "is this you?" list → what you've tried → the turn → bad news / good news → product.
+This map is the frame for the whole draft. Show it in the output so the user can see the structure was kept.
 
-The skeleton transfers; the devices often don't. Diagnosis names, professionals as enemies, the speaker's authority and named frameworks usually need swapping for the Indian, hugg version.
+## Step 3: Fill each beat in the user's style
 
-## Step 3: Rewrite beat by beat
+For each beat in the map, find its type below and apply that type's craft. The guidance here covers *how to write* a beat of that type. Whether the beat exists, and in what order, comes only from the map. If the reference has no beat of a given type, skip that section entirely.
 
-**Hook: name the label, state the contradiction.**
-Open with the condition label the viewer already owns, then the contradiction that keeps them watching ("H. pylori gaya, phir bhi jalan?"). Use the outcome ("gaya"), not the process ("course poora kiya"). One line, about 1–2 s. It has to work as a filter: the right person thinks "that's me" in a second.
+Keep the reference's **device**, not ours. If the reference uses three people giving advice, use three people. If it asks "does this keep you from what you love?", ask that. Don't import "X ne kaha" or "plate me nahin, pet me" from the TumGard example unless the reference has that device. Reusing our own lines makes every hugg ad sound the same.
 
-**Symptom list: felt experience, not diagnoses.**
-- Exactly **5 lines**, each **3–5 words**, about 1.3 s each. Short and rapid; no scene-setting (no meetings, weddings, pillows). Every viewer should match every line.
-- Build the lines from `phrasebank.md` for the chosen angle: customers' real words, compressed. If the angle has no doors, use the product's symptom doors. Use what people actually say ("jalan", not a writerly "aag"), similes ("jaise patthar"), and sensory or embarrassing detail ("badbudaar"), so it **agitates**, not just describes.
-- Escalate: body → mouth → chest → **mind**. End on the emotional cost ("Har khane se pehle darr").
-- Put the vivid word first ("Khatta paani muh mein").
-- Drop anything the hook already says.
+**Hook (label + contradiction).**
+Keep the reference's form (question, statement, and so on), but open with the label the viewer already owns. Where it fits, add the contradiction that keeps them watching ("H. pylori gaya, phir bhi jalan?"). Use the outcome, not the process. Stay as short as the reference's hook: one line, a filter that makes the right person think "that's me" in a second.
 
-**What you've tried: three voices, all the same kind of fix.**
-- Exactly **three**: unasked-for advice from people in the viewer's life (ghar wale, dost, internet). Format: "X ne kaha: [fix]."
-- All three should be the **same category of fix** (for TumGard, all food/plate fixes), so the turn can rule out that whole category in one line.
-- Pick them from the angle's "tried before" list in `products.md`, keeping only the non-medicine ones (home remedies, diet rules, advice).
-- No medicines, no doctors, no brands. A medicine breaks the pattern and makes it a knock on a product. Never undermine prescribed medicine.
+**Symptom / condition list (felt experience, not diagnoses).**
+- Use the **same number of items** as the reference. Each item is 3–5 words, rapid, with no scene-setting. Every viewer should match every line.
+- Build the lines from `phrasebank.md` for the chosen angle: customers' real words, compressed. Use what people actually say ("jalan", not a writerly "aag"), similes ("jaise patthar"), and sensory or embarrassing detail ("badbudaar"), so the list **agitates**, not just describes.
+- Escalate from body to **mind**, and end on the emotional cost ("Har khane se pehle darr"). Put the vivid word first ("Khatta paani muh mein"). Drop anything the hook already says.
 
-**The turn: diagnose, don't dismiss.**
-- One line that moves the problem from what the viewer has been doing to where it really is: "Yeh sab karne ke baad bhi - issue nahi gaya matlab problem plate me nahin, pet me hai."
-- Never say the remedies "don't work". State the viewer's own experience ("issue nahi gaya"). That takes the blame off them and avoids a knock.
-- Aim for a quotable contrast (alliteration helps: plate/pet). Echo a word from the hook if you can ("gaya" / "nahi gaya").
-- Cut anything about the speaker ("that's why you're watching me", "Toh suno"). An AI host has no earned authority, so those lines are just time.
+**Cost / what it takes from you.**
+Name the specific things the viewer loses, in Indian life: food they love, chai, sleep, family meals. Keep the reference's sentence shape. Be concrete, not "your lifestyle".
 
-**Bad news / good news: in one breath.**
-- The stat should **explain**, not just count: prevalence plus what the villain does ("80% Indians mein ek bacteria hai jo pet ki lining ko sensitive karta hai"). That makes it evidence for the turn.
-- A big number says "you're not alone" for you, so drop that line.
-- Use plain words for the villain ("ek bacteria") to widen the audience beyond the diagnosed.
-- Good news is **concrete and simple**, and it should point toward the product's job, not away from it. If the body "recovers by itself", there's no reason to buy. Any timeframe comes from the product's "users report" timeline in `products.md`.
+**What you've tried.**
+- Keep the reference's count and who is speaking (professionals, people, the internet). Swap in Indian equivalents, but aim it at **advice and habits, never at doctors or medicines**. Never undermine prescribed medicine.
+- Make all the items the **same category of fix** (taken from the angle's "tried before" list in `products.md`, non-medicine ones only), so a turn can rule out the whole category at once.
+- If the reference says these fixes "rarely solve the problem", keep the meaning but state the viewer's experience ("phir bhi wapas") rather than claiming the fixes fail.
 
-**Product line: the direct answer to the villain.**
-- One line, joined to the previous one ("Usi…"), in the maker's voice ("humne banaya hai [Product]"), and in support framing (e.g. "Usi lining ko support karne ke liye, humne banaya hai TumGard"). The product arrives around 25–30 s, not 50.
-- No named frameworks or extra reframes before it.
+**Turn (diagnose, don't dismiss).**
+One line that moves the problem from what the viewer has been doing to where it really is, as a quotable contrast (the user's example: "problem plate me nahin, pet me hai"). Write a fresh contrast for each angle. Echo a word from the hook if you can. Cut lines about the speaker ("that's why you're watching me", "here's what you need to know").
 
-## Step 4: Check the chain
+**Stat / bad news, good news.**
+The stat should explain, not just count: prevalence plus what the problem does. Use only a prevalence stat, with a source or a `[X]%` placeholder. A big number says "you're not alone" for you, so drop that line. Good news has to point toward the product's job, never "it heals by itself".
 
-Read it straight through. Each line should cause the next:
+**Product introduction.**
+- Keep the reference's form (invitation, reveal, "that's why we made…"), in the maker's voice ("humne banaya hai [Product]"), with support framing.
+- If an earlier beat named the mechanism, hinge on it with "isi/usi…".
+- If no earlier beat did (as with an ad that goes straight from cost to product), the product line has to **carry the mechanism itself in one fused line**. Use shape B in `rules.md`, e.g. "Isliye humne banaya hai TumGard, jo acid se soojh chuki lining ko support karta hai." Don't add a mechanism beat to make room for it.
 
-label → still suffering → tried X-type fixes → it's not X, it's Y → here's why (villain) → good news → product.
+## Step 4: Check structure, then the chain
 
-If any line is a side argument, cut it. Check especially that the **hook and the product line agree**: if the hook says the villain is gone, the product shouldn't be about fighting it. Flag any mismatch to the user; don't silently fix it.
+1. **Structure:** put your beat list next to the reference's. The same beats in the same order, the same item counts, and a total length within about 20% of the reference's. If anything differs, fix it before showing the draft.
+2. **Chain:** read it straight through. Each line should lead into the next, with no side arguments. Make sure **the hook and the product line agree**: if the hook says the villain is gone, the product shouldn't be about fighting it. Flag any mismatch rather than silently fixing it.
 
 ## Step 5: Run the claim rules; flag, don't override the user
 
@@ -92,7 +92,7 @@ Never copy the reference's lines, brand, or framework names.
 ## Output
 
 1. **The intro as one paragraph** (the user edits in this form).
-2. A short beat table: beat → line → the job it does.
+2. A beat table that shows the structure was kept: reference beat (time) → hugg line → the job it does.
 3. **Flags**: claims to check, placeholders to fill, any break in the chain.
 
 When the user edits, apply their changes exactly as written. Fix only obvious grammar (say so), and give the full paragraph back each time.

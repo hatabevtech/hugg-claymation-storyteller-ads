@@ -1,5 +1,7 @@
 # Worked example: YOGABODY "Fix Your Feet" → TumGard × H. pylori
 
+Use this to learn how the user writes a line. The beat order here is YOGABODY's, not a template for other references. Each new reference brings its own structure.
+
 ## Reference intro (up to the product)
 "Do you have painful feet? Plantar fasciitis or bunions? Flat feet, Morton's neuroma? Overlapping or hammer toes? Maybe Achilles tendonitis? Podiatrists always want to sell expensive inserts. Doctors want you to wear orthopedic shoes that look like ski boots. The internet wants you to walk barefoot and foam roll your arches throughout the day. Now, all of these interventions would be fine if they worked, but the reality is your feet still hurt. That's why you're watching me now. Here's what you need to know: 30% of adults have a diagnosable foot problem. That's the bad news. You're not alone. The good news is there's a very good chance you can fix your feet. … I call these the three S's … in my upcoming Fix Your Feet Masterclass."
 
