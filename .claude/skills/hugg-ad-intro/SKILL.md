@@ -43,6 +43,11 @@ For each beat in the map, find its type below and apply that type's craft. The g
 
 Keep the reference's **device**, not ours. If the reference uses three people giving advice, use three people. If it asks "does this keep you from what you love?", ask that. Don't import "X ne kaha" or "plate me nahin, pet me" from the TumGard example unless the reference has that device. Reusing our own lines makes every hugg ad sound the same.
 
+**Rules for every beat:**
+- **Time budget (strict).** Each beat fits inside the reference's time for that beat, at about 2.5–3 spoken Hinglish words a second. If the reference says it in 2 seconds, so do we. Cut words rather than run over.
+- **One idea per line (the default).** Each line carries one thought. Split or cut a line that stacks a reframe, a promise and proof together. Break this only when the reference itself fuses ideas in one breath and splitting would blow the time budget.
+- **Match the reference's vocabulary register.** Where the reference speaks plainly (painful feet, bunions), use customer words from the phrasebank. Where it leans on science to build authority (core, posterior chain, hamstrings, isometric), real mechanism terms from `products.md` (bile, lining, soojan, liver) are fine and can help. In both cases, explain any technical word right away in a plain, picturable line ("Liver bile banata hai, aur wahi bile todti hai paratha ka ghee").
+
 **Hook (label + contradiction).**
 Keep the reference's form (question, statement, and so on), but open with the label the viewer already owns. Where it fits, add the contradiction that keeps them watching ("H. pylori gaya, phir bhi jalan?"). Use the outcome, not the process. Stay as short as the reference's hook: one line, a filter that makes the right person think "that's me" in a second.
 
