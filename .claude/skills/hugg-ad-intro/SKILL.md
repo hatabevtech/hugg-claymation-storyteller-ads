@@ -22,10 +22,10 @@ Most of what you need is already bundled, taken from the hugg Brief Builder:
 **Always ask which product first, before drafting anything**, even if the reference seems to point at one. Being aligned on the product up front saves a wasted draft. Ask in one short message:
 
 1. **Which product?** Give your suggested product and angle, with a one-line reason (the problem that plays the same role and weight as the reference's), so the user can just say yes. If they also name an angle, use it. Otherwise pick the angle yourself.
-2. **Any stat or social-proof number** they want used, with its source, if the reference has a stat or proof beat. Prevalence and behaviour stats only, never efficacy.
+2. *(Don't ask about stats or social-proof numbers.)* When the reference has a stat or proof beat, keep the beat and write the line with a placeholder the user will fill in: `[X]%` for a prevalence stat, `[X] hazaar log` / `[X]+ reviews` for social proof. Never cut the beat for lack of a number, and never invent one. The only exception is a number that is already in `products.md` (e.g. TumGard's "500+ reviews · 9.1/10"): use that. Stats are prevalence or behaviour only, never efficacy.
 3. **Language and length**, only if there's a reason to depart from Hinglish at the reference's own length.
 
-Wait for the product answer. After that, read the product's section of `products.md` and the angle's doors in `phrasebank.md`, then draft. Don't block on items 2–3: use placeholders like `[X]%` where needed.
+Wait for the product answer. After that, read the product's section of `products.md` and the angle's doors in `phrasebank.md`, then draft. Don't block on anything else.
 
 ## Step 2: Map the reference's own structure
 
