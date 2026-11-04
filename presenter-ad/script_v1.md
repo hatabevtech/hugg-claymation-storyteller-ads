@@ -20,7 +20,7 @@
 | 2 | 0:03–0:10 | Symptom list | "Pet mein jaise **patthar.** / Khatti, **badbudaar** dakaar. / Khatta paani **muh mein.** / Seene mein **jalan.** / Har khane se pehle **darr.**" (opening locked by user) | Host shrinks into a circle on flat grey. One quick image per line, each lighting up red as it is named: a rock dropping into a stomach, a hand covering a mouth, a sour drop on the tongue, burning in the chest, a plate approached warily. About 1.3 s per line. **[CHECK]** symptom list scope. |
 | 3 | 0:10–0:21 | What you've tried | "Ghar walon ne kaha: **chai band.** / Doston ne kaha: mirchi band, sirf **khichdi.** / Internet ne kaha: subah **jeera paani.**" | Studio/home set. Gentle visual gags: the chai cup slides away from the host; khichdi bowls stack up (callback to clay S12); jeera-water glasses multiply. Comedy is about life getting smaller, not about remedies failing. |
 | 4 | 0:22–0:27 | Turn | "Yeh sab karne ke baad bhi - pet me **jalan?** Matlab problem **plate** me nahin, **pet** me hai." | Host to camera, leaning in. Cut-in: hand pressed below the ribs, red target ring. |
-| 5 | 0:27–0:32 | Stat | "**[X]%** Indians mein H. pylori hota hai. Aap **akele** nahi ho." | Charcoal background, a grid of figures; [X]% light up **mustard-olive** (the villain colour). **[CHECK] stat needs a cited source before this line exists.** |
+| 5 | 0:27–0:32 | Stat | "**80%** Indians mein ek bacteria hai jo pet ki lining ko **sensitive** karta hai. Good news: bacteria hatao, pet **30 din** mein khud recover hone lagta hai." (locked by user) | Charcoal background, a grid of figures; [X]% light up **mustard-olive** (the villain colour). **[CHECK] source needed for "80%" and for "30 din mein khud recover".** |
 | 6 | 0:32–0:42 | Mechanism | "Antibiotic ne / bacteria hata diya. **Sahi kiya.** [A] / Par jo lining / usne khaayi, / **woh wahi rahi.** [A] / Isiliye / course ke baad bhi / **jalan.** [A]" | Cut to the clay world: S06–S07 (white-blue wave), S08 (empty cratered lining), S09 (acid drop sizzles). The host's VO carries over. |
 | 7 | 0:42–0:47 | Lowering the bar | "Theek hone ka matlab **chai chhodna** nahi. Khichdi pe **jeena** nahi. Matlab hai: **lining ko support** dena." | Host to camera, counting on fingers. **[CHECK]** carries the same open claim as "Chai band nahi" (storyboard §7 item 4). |
 | 8 | 0:47–0:55 | Product | "Usi lining pe / **TumGard** / kaam karta hai. [A] / Kalonji / aur licorice / lining ko / **support** karte hain. [A, still pending its own check] / Doctor ki dawa / apna kaam kare, / **TumGard apna.** [A]" | Host holds the real TumGard jar (no generated label; comp the real one). Then clay S15 (black lehyam soaks in, pink returns) and S17 (blister strip and jar, side by side). |
@@ -36,7 +36,7 @@
 - **The clay mechanism shots come back as cutaways** (S06–S09, S15, S17), so the presenter ad and the clay ad share one visual world and one set of approved frames.
 
 ## Open items
-1. Source for the stat in line 5, or replace it with a non-numeric line ("Bahut logon ke saath hota hai").
+1. Sources for "80%" and "30 din mein khud recover" in line 5.
 2. Claim/regulatory pass on everything marked [CHECK].
 3. Host casting brief: age, gender, look, voice and settings (one outdoor, one warm home/studio).
 4. AI disclosure: confirm what Meta and ASCI need for an AI-generated presenter in a health ad.
