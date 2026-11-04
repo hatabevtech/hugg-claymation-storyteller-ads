@@ -5,7 +5,7 @@ description: Turn another brand's reference ad (script, transcript, or frames) i
 
 # hugg ad intro from a reference script
 
-The user hands you someone else's ad. **Their structure, our content, our writing style.** Keep the reference's beats exactly: which beats there are, their order, how many items each one has, and roughly how long each lasts. Then rewrite every line for a hugg product and an Indian viewer, the way the user writes. Stop at the line that introduces the product.
+The user hands you someone else's ad. **Their structure, our content, our writing style.** Keep the reference's beats exactly: which beats there are, their order, how many items each one has, and roughly how long each lasts. Then rewrite every line for a hugg product and an Indian viewer, the way the user writes. **Always stop at the line where the reference names its product** (e.g. "It's called the 21-Day Happy Back Challenge"), even if it reveals a method or approach earlier. Everything before the product name is the intro, however long it runs.
 
 Structure is the one thing you must not change. Don't add beats the reference doesn't have, don't drop beats it does have, and don't reorder them. A 16-second intro stays about 16 seconds. If you think a beat is missing (for example, the product arrives with no reason to believe), say so in the flags as an optional addition. Never build it into the draft.
 
@@ -29,7 +29,7 @@ Don't block on these. Draft with placeholders like `[X]%` where needed.
 
 ## Step 2: Map the reference's own structure
 
-List the reference's beats from the first line up to the product introduction. For each beat, write down:
+List the reference's beats from the first line up to and including the line that names its product. For each beat, write down:
 - its time span and an approximate word budget (spoken Hinglish runs about 2.5–3 words a second);
 - its **job** (filter, recognition, cost, tried-it, turn, stat, promise, product…);
 - its **count**, if it's a list (5 conditions means 5 lines);
