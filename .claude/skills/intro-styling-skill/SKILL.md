@@ -1,6 +1,6 @@
 ---
 name: intro-styling-skill
-description: Turn another brand's reference ad (script, transcript, or frames) into a hugg ad intro, from the hook up to the line that introduces the product, in short, rapid Hinglish. Use whenever the user shares a competitor or reference ad script/transcript/video and wants a hugg version, a hook, an opening, an intro, or "the same structure for our product", even if they don't say "intro" or name this skill.
+description: Turn another brand's reference ad (script, transcript, or frames) into a hugg ad intro, keeping the reference's exact structure, from the hook up to the line that names the product, written in the user's short, rapid Hinglish style. Use whenever the user shares a competitor or reference ad script/transcript/video and wants a hugg version, a hook, an opening, an intro, or "the same structure for our product", even if they don't say "intro" or name this skill.
 ---
 
 # hugg ad intro from a reference script
