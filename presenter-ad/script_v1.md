@@ -16,7 +16,7 @@
 
 | # | Time | Beat | VO (Hinglish) | Visual |
 |---|---|---|---|---|
-| 1 | 0:00–0:03 | Hook | "Antibiotic ka course poora kiya… **phir bhi jalan?**" | Host outdoors (terrace or park bench), hand on upper stomach, talking to camera. Red pain flicker over the stomach. |
+| 1 | 0:00–0:03 | Hook | "H. pylori gaya, **phir bhi jalan?**" | Host outdoors (terrace or park bench), hand on upper stomach, talking to camera. Red pain flicker over the stomach. |
 | 2 | 0:03–0:11 | Symptom list | "Khane ke baad **jalan?** / Khatti **dakaar?** / Pet **bhaari-bhaari?** / Raat ko seene tak **aag?** / Ya report **negative**, par pet abhi bhi wahi?" | Host shrinks into a circle on flat grey. Flat stomach/throat/chest icons pop in around them one per line, each lighting up red as it's named. The last icon is a plain report sheet (no text) with a tick. **[CHECK]** symptom list scope. |
 | 3 | 0:11–0:22 | What you've tried | "Ghar walon ne kaha: **chai band.** / Doston ne kaha: mirchi band, sirf **khichdi.** / Internet ne kaha: subah **jeera paani.** / Aur jeb mein hamesha ek **antacid.**" | Studio/home set. Gentle visual gags: the chai cup slides away from the host; khichdi bowls stack up (callback to clay S12); jeera-water glasses multiply; host pats a pocket with a blister strip. Comedy is about life getting smaller, not about remedies failing. |
 | 4 | 0:22–0:27 | Turn | "Itna sab chhoda… aur pet **phir bhi** shaant nahi. Isiliye aap yeh dekh rahe ho. **Toh suno.**" | Host to camera, leaning in. Cut-in: hand pressed below the ribs, red target ring. |
