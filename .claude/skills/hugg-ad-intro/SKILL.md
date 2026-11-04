@@ -52,7 +52,9 @@ Keep the reference's form (question, statement, and so on), but open with the la
 - Escalate from body to **mind**, and end on the emotional cost ("Har khane se pehle darr"). Put the vivid word first ("Khatta paani muh mein"). Drop anything the hook already says.
 
 **Cost / what it takes from you.**
-Name the specific things the viewer loses, in Indian life: food they love, chai, sleep, family meals. Keep the reference's sentence shape. Be concrete, not "your lifestyle".
+- List **concrete losses in the reference's count and rhythm.** If the reference names two things ("the exercises and active lifestyle you love"), name two specific ones; if it names three, name three. Build them as a parallel list that climbs toward the most emotional loss, e.g. "subah ki chai se, ghar ke khaane se, aur sukoon ki neend se". Use the specifics of Indian life (chai, ghar ka khana, shaadi ki thaali, neend), never "your lifestyle".
+- Keep the reference's sentence shape (e.g. its question).
+- Don't repeat a loss the symptom list already covers. If the list has "raat bhar karwatein", sleep can't be the last loss.
 
 **What you've tried.**
 - Keep the reference's count and who is speaking (professionals, people, the internet). Swap in Indian equivalents, but aim it at **advice and habits, never at doctors or medicines**. Never undermine prescribed medicine.
@@ -81,7 +83,7 @@ Check every line against `references/rules.md` and the product's **noAds** in `p
 
 - **Support/manage framing only:** "support karta hai", "pe kaam karta hai". Never cure, treat, fight, eradicate, reverse, or "theek ho jayega".
 - **Outcomes** take the form "users report" / "log feel karte hain", with the product's real timeline. No efficacy % stats, no guarantees.
-- **Never put "aapki" / "your" next to a condition** (Meta personal-attributes policy).
+- **Never put "aapki" / "your" next to a condition** (Meta personal-attributes policy). Fix it by **taking "aap/aapko/aapki" out of the line**, not by adding a clause to move it elsewhere. Make the symptom or condition the subject: "Kya yeh jalan door rakhti hai subah ki chai se…", not "Kya pet ki yeh problems aapko door rakhti hain…", and not "…jo aapko sabse pasand hai". Padding a line to dodge the rule costs rhythm.
 - **Respect the doctor's medicine.** Show the gap it leaves; never "stop it".
 - **The product line** must resolve the product's actual mechanism (e.g. TumGard: flavonoids help reduce lining inflammation) and hinge on it with "isi/usi…".
 
