@@ -73,6 +73,7 @@ One line that moves the problem from what the viewer has been doing to where it 
 The stat should explain, not just count: prevalence plus what the problem does. Use only a prevalence stat, with a source or a `[X]%` placeholder. A big number says "you're not alone" for you, so drop that line. Good news has to point toward the product's job, never "it heals by itself".
 
 **Product introduction.**
+- **The product name is the product name.** Use it exactly as written in `products.md` (TumGard, ColCalm, Mango Leaf Tonic, Kalmegh Bitters). Don't add a descriptor or category ("kadwa tonic", "Ayurvedic lehyam", "hugg ka…"), and don't paraphrase, shorten or translate it.
 - Keep the reference's form (invitation, reveal, "that's why we made…"), in the maker's voice ("humne banaya hai [Product]"), with support framing.
 - If an earlier beat named the mechanism, hinge on it with "isi/usi…".
 - If no earlier beat did (as with an ad that goes straight from cost to product), the product line has to **carry the mechanism itself in one fused line**. Use shape B in `rules.md`, e.g. "Isliye humne banaya hai TumGard, jo acid se soojh chuki lining ko support karta hai." Don't add a mechanism beat to make room for it.
