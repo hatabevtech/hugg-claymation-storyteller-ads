@@ -4,6 +4,9 @@
 *Format reference: YOGABODY "Fix Your Feet" presenter ad (structure and edit grammar only; we don't copy its look or lines).*
 *Presenter: AI-generated host. Product: TumGard.*
 
+## Final VO
+> H. pylori gaya, phir bhi jalan? Pet mein jaise patthar. Khatti, badbudaar dakaar. Khatta paani muh mein. Seene mein jalan. Har khane se pehle darr. Ghar walon ne kaha: chai band. Doston ne kaha: mirchi band, sirf khichdi. Internet ne kaha: subah jeera paani. Yeh sab karne ke baad bhi - issue nahi gaya matlab problem plate me nahin, pet me hai. 80% Indians mein ek bacteria hai jo pet ki lining ko sensitive karta hai. Good news: bacteria hatao, pet 30 din mein khud recover hone lagta hai. Usi bacteria se ladne ke liye, humne banaya hai TumGard.
+
 ## Rules this draft follows
 - **Approved claim lines are reused word for word** from the claymation ad (`storyboard.md`). They're marked **[A]**.
 - **New lines that need a claim/regulatory check** are marked **[CHECK]**.
@@ -19,7 +22,7 @@
 | 1 | 0:00–0:03 | Hook | "H. pylori gaya, **phir bhi jalan?**" | Host outdoors (terrace or park bench), hand on upper stomach, talking to camera. Red pain flicker over the stomach. |
 | 2 | 0:03–0:10 | Symptom list | "Pet mein jaise **patthar.** / Khatti, **badbudaar** dakaar. / Khatta paani **muh mein.** / Seene mein **jalan.** / Har khane se pehle **darr.**" (opening locked by user) | Host shrinks into a circle on flat grey. One quick image per line, each lighting up red as it is named: a rock dropping into a stomach, a hand covering a mouth, a sour drop on the tongue, burning in the chest, a plate approached warily. About 1.3 s per line. **[CHECK]** symptom list scope. |
 | 3 | 0:10–0:21 | What you've tried | "Ghar walon ne kaha: **chai band.** / Doston ne kaha: mirchi band, sirf **khichdi.** / Internet ne kaha: subah **jeera paani.**" | Studio/home set. Gentle visual gags: the chai cup slides away from the host; khichdi bowls stack up (callback to clay S12); jeera-water glasses multiply. Comedy is about life getting smaller, not about remedies failing. |
-| 4 | 0:22–0:27 | Turn | "Yeh sab karne ke baad bhi - pet me **jalan?** Matlab problem **plate** me nahin, **pet** me hai." | Host to camera, leaning in. Cut-in: hand pressed below the ribs, red target ring. |
+| 4 | 0:22–0:27 | Turn | "Yeh sab karne ke baad bhi - issue nahi gaya matlab problem **plate** me nahin, **pet** me hai." | Host to camera, leaning in. Cut-in: hand pressed below the ribs, red target ring. |
 | 5 | 0:27–0:32 | Stat | "**80%** Indians mein ek bacteria hai jo pet ki lining ko **sensitive** karta hai. Good news: bacteria hatao, pet **30 din** mein khud recover hone lagta hai." (locked by user) | Charcoal background, a grid of figures; [X]% light up **mustard-olive** (the villain colour). **[CHECK] source needed for "80%" and for "30 din mein khud recover".** |
 | 6 | — | Product | "Usi bacteria se ladne ke liye, humne banaya hai **TumGard.**" (user line; script ends here for now) | Host holds the real TumGard jar (comp the real label). **[CHECK] conflicts with approved positioning: TumGard supports the lining; it does not fight the bacteria. See note below.** |
 
