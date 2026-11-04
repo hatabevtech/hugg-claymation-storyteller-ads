@@ -19,13 +19,16 @@ Most of what you need is already bundled, taken from the hugg Brief Builder:
 - `references/phrasebank.md`: verbatim customer phrases by angle and "door" (symptom cluster). Prefer **fat** doors (20+ posts). `TGS`-style lists are "tried everything" phrases.
 - `references/rules.md`: claim discipline, the universal hook rules (doc 01), hook craft, hook engines, and the mechanism beat.
 
-**Always ask which product first, before drafting anything**, even if the reference seems to point at one. Being aligned on the product up front saves a wasted draft. Ask in one short message:
+**Before drafting anything, read the reference and ask the user two things in one go**, even if the reference seems to point at a product. Being aligned up front saves a wasted draft. If the AskUserQuestion tool is available, use it. Its free-text "Other" box gives the user a place to type their own direction. Otherwise, ask in one short message.
 
-1. **Which product?** Give your suggested product and angle, with a one-line reason (the problem that plays the same role and weight as the reference's), so the user can just say yes. If they also name an angle, use it. Otherwise pick the angle yourself.
-2. *(Don't ask about stats or social-proof numbers.)* When the reference has a stat or proof beat, keep the beat and write the line with a placeholder the user will fill in: `[X]%` for a prevalence stat, `[X] hazaar log` / `[X]+ reviews` for social proof. Never cut the beat for lack of a number, and never invent one. The only exception is a number that is already in `products.md` (e.g. TumGard's "500+ reviews · 9.1/10"): use that. Stats are prevalence or behaviour only, never efficacy.
-3. **Language and length**, only if there's a reason to depart from Hinglish at the reference's own length.
+1. **Which product?** Put your recommended product and angle first, with a one-line reason (the problem that plays the same role and weight as the reference's). List the other products as options too.
+2. **Direction for the hard beats.** Find the 1–2 beats in the reference with no natural hugg counterpart for the recommended product. Typical ones: a numbered method ("strength, flexibility, balance"), a named program, a joke or visual gag, a proof device. Name each beat and the problem, offer 2–3 concrete ways to map it for the recommended product, and leave room for the user's own direction. Example: "The reference's 3 steps are things the viewer *does*. For TumGard: (a) three things the lining needs: soojan kam, lining strong, acid ka asar kam; (b) three moments in the day TumGard fits into; (c) your direction." If there's no hard beat, skip this question.
 
-Wait for the product answer. After that, read the product's section of `products.md` and the angle's doors in `phrasebank.md`, then draft. Don't block on anything else.
+Wait for the answers. If the user picks a different product from your recommendation and gave no direction, ask the direction question once more for that product. Then read the product's section of `products.md` and the angle's doors in `phrasebank.md`, and draft, following the user's direction for those beats.
+
+**Stats and social proof are always placeholders.** Keep the beat and write the line with a placeholder the user will fill in: `[X]%` for a stat, `[X] hazaar log` / `[X]+ reviews` / `[X]/10` for social proof. Don't use numbers from `products.md`, don't invent any, don't ask for them, and don't cut the beat. Stats are prevalence or behaviour only, never efficacy.
+
+Hinglish at the reference's own length is the default. Ask about language or length only if there's a reason to depart from it.
 
 ## Step 2: Map the reference's own structure
 
